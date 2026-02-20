@@ -1,0 +1,2 @@
+# studentdynamic.cpp
+using c++
